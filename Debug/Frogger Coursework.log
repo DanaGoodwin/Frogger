@@ -1,0 +1,3 @@
+﻿  truck2.cpp
+c:\users\garet\documents\dmu\yr 1\c++\student pack\frogger coursework\frogger coursework\src\truck2.cpp(26): warning C4305: 'argument': truncation from 'double' to 'float'
+  Frogger Coursework.vcxproj -> C:\Users\Garet\Documents\DMU\Yr 1\C++\Student Pack\Frogger Coursework\Debug\Frogger Coursework.exe
